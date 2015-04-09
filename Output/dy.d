@@ -1,0 +1,16 @@
+..\..\Output\dy.o: ..\..\User\DY\DY.c
+..\..\Output\dy.o: ..\..\User\DY\DY.h
+..\..\Output\dy.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\Output\dy.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\Output\dy.o: F:\Keil\ARM\RV31\INC\stdint.h
+..\..\Output\dy.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\Output\dy.o: ..\..\User\stm32f10x_conf.h
+..\..\Output\dy.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\Output\dy.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\Output\dy.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\Output\dy.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\Output\dy.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\Output\dy.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\Output\dy.o: ..\..\User\spi\bsp_spi_flash.h
+..\..\Output\dy.o: ..\..\User\key\key.h
+..\..\Output\dy.o: ..\..\User\OP.h

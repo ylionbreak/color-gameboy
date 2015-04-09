@@ -1,0 +1,13 @@
+..\..\Output\shu.o: ..\..\User\shu\shu.c
+..\..\Output\shu.o: ..\..\User\shu\shu.h
+..\..\Output\shu.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\Output\shu.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\Output\shu.o: F:\Keil\ARM\RV31\INC\stdint.h
+..\..\Output\shu.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\Output\shu.o: ..\..\User\stm32f10x_conf.h
+..\..\Output\shu.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\Output\shu.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\Output\shu.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\Output\shu.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\Output\shu.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\Output\shu.o: ..\..\Libraries\FWlib\inc\misc.h

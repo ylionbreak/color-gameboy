@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\..\Libraries\CMSIS -I..\..\User -I..\..\Libraries\FWlib\inc -I..\..\User\usart -I..\..\User\spi -I "F:\Keil\ARM\INC" -I "F:\Keil\ARM\INC\ST\STM32F10x" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\..\Output\bsp_led.o" --omf_browse "..\..\Output\bsp_led.crf" --depend "..\..\Output\bsp_led.d" "..\..\User\bsp_led.c"

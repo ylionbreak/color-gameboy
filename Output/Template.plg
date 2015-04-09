@@ -1,0 +1,100 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\YLion\Desktop\点阵游戏机最终版\Project\RVMDK（uv4）\iSO-STM32.uvproj
+Project File Date:  12/07/2014
+
+<h2>Output:</h2>
+Build target 'SPI（W25Q16）'
+compiling main.c...
+linking...
+Program Size: Code=39492 RO-data=344840 RW-data=10988 ZI-data=1548  
+FromELF: creating hex file...
+"..\..\Output\Template.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\..\\Output\\Template.AXF" 
+Set JLink Project File to "C:\Users\YLion\Desktop\点阵游戏机最终版\Project\RVMDK（uv4）\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.90 , compiled Jul 28 2014 10:35:20
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+Load "..\\..\\Output\\Template.AXF" 
+Set JLink Project File to "C:\Users\YLion\Desktop\点阵游戏机最终版\Project\RVMDK（uv4）\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.90 , compiled Jul 28 2014 10:35:20
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+VTarget = 2.685V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4800 kHz
+ 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Build target 'SPI（W25Q16）'
+compiling main.c...
+linking...
+Program Size: Code=39532 RO-data=344800 RW-data=10988 ZI-data=1548  
+FromELF: creating hex file...
+"..\..\Output\Template.axf" - 0 Error(s), 0 Warning(s).
+Load "..\\..\\Output\\Template.AXF" 
+Set JLink Project File to "C:\Users\YLion\Desktop\点阵游戏机最终版\Project\RVMDK（uv4）\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.90 , compiled Jul 28 2014 10:35:20
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N : 20080643 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFull 
+ 
+* JLink Info: TotalIRLen = 9, IRPrint = 0x0011
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: TPIU fitted.
+* JLink Info: ETM fitted.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103VE
+* JLink Info: Device "STM32F103VE" selected (512 KB flash, 64 KB RAM).
+VTarget = 2.685V
+State of Pins: 
+TCK: 1, TDI: 0, TDO: 1, TMS: 0, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 4800 kHz
+ 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
